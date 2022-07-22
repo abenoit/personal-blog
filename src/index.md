@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: "Amélie"
 ---
 
 # Hello World
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Reflexions, articles et sketchnotes d'une dév en 2022.

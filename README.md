@@ -1,10 +1,6 @@
-# Eleventy Duo
+# Personnal blog
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
-
-![demo site screenshot](./screenshot.png)
-
-### [Live demo](https://eleventyduo.netlify.app)
+Inspired by (Eleventy Duo)[https://github.com/yinkakun/eleventy-duo]
 
 ## Features
 
@@ -28,17 +24,16 @@ Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 
 ## Getting Started
 
-- [Generate a new repo from this repository template](https://github.com/yinkakun/eleventy-duo/generate) which will copy this project into your own new repo.
+```bash
+# install dependencies
+yarn
 
-- Clone your new repository with `git clone https://github.com/YOUR_REPO`,
+# launch locally
+yarn dev
 
-- Navigate to the newly created repo
-
-- Install dependencies with `yarn install`
-
-- Serve the site locally with `yarn dev`
-
-- Use `yarn build` to build a production version of the site.
+# build a production version
+yarn build
+```
 
 ## Customize
 

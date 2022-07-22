@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "Amélie's thoughts",
+  "description": "Mes Sketchnotes, articles techniques ou soft-skill, pensées.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Amélie Benoit",
+    "email": "amelie.benoit33@gmail.com",
+    "twitterHandle": "@AmelieBenoit33"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -22,18 +22,13 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/abenoit",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/AmelieBenoit33",
       "external": true
     }
   ],
