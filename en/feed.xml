@@ -1,0 +1,32 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amélie&#39;s thoughts</title>
+  <subtitle></subtitle>
+  <link href="{{locale}}/feed.xml" rel="self"/>
+  <link href="/"/>
+  
+    <updated>2022-07-24T22:00:00+02:00</updated>
+  
+  <id></id>
+  <author>
+    <name>Amélie Benoit</name>
+    <email>amelie.benoit33@gmail.com</email>
+  </author>
+  
+    
+    <entry>
+      <title>My Devoxx 2022</title>
+      <link href="/en/blog/my-devoxx/"/>
+      <updated>2022-07-24T22:00:00+02:00</updated>
+      <id>/en/blog/my-devoxx/</id>
+      <content type="html">
+        <![CDATA[
+      <p>Devoxx France happened again in 2022 ! Going back on my experience as a Speaker, sharing the conferences I've likes and my Sketchnotes. 3 days summed up in a few words and drawings: Hold my beer, let's get started!</p>
+<p>TODO</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+</feed>
