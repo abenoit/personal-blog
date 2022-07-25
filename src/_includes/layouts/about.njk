@@ -1,0 +1,12 @@
+---
+layout: base.njk
+translationKey: "aboutPage"
+---
+
+<div class="about">
+  <div class="about__content">
+    <h1>About {{ name }}</h1>
+    {{ content | safe }}
+  </div>
+  <img src="{{ image | url }}" alt="" class="about__image">
+</div>

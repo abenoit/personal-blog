@@ -22,7 +22,7 @@
 .site-title {
   font-size: var(--text-xl);
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  align-self: flex-end;
 }
 
 .site-title a {
@@ -40,9 +40,7 @@
   list-style: none;
   font-size: var(--text-base);
   padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
 }
-
 .nav__list a {
   color: rgb(117, 117, 117);
   text-decoration: none;
@@ -59,5 +57,29 @@
 }
 
 .nav__list a:hover {
+  color: rgb(41, 41, 41);
+}
+
+.nav__list__lang {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  font-size: var(--text-xs);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: rgb(117, 117, 117);
+}
+
+.nav__list__lang_item:not(:last-child)::after {
+  content: "/";
+  margin: 0 0.2rem;
+}
+
+.nav__list__lang_link {
+  text-decoration: none;
+}
+
+.nav__list__lang_link.is-active {
+  font-weight: bold;
   color: rgb(41, 41, 41);
 }

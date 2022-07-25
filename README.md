@@ -101,7 +101,7 @@ Sample frontmatter for generic pages.
 ```
 ---
 layout: base
-permalink: /generic-page
+permalink: generic-page
 title: Generic page
 ---
 

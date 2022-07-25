@@ -1,7 +1,7 @@
 {
   "name": "Amélie's thoughts",
-  "description": "Mes Sketchnotes, articles techniques ou soft-skill, pensées.",
-  "url": "https://eleventyduo.netlify.app",
+  "description": "Sketchnotes, articles techniques ou soft-skill.",
+  "url": "",
   "author": {
     "name": "Amélie Benoit",
     "email": "amelie.benoit33@gmail.com",
@@ -10,12 +10,12 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "translationKey": "blog",
+      "url": "/",
       "external": false
     },
     {
-      "text": "About",
+      "translationKey": "about",
       "url": "/about",
       "external": false
     }
@@ -32,6 +32,24 @@
       "external": true
     }
   ],
+  "languages": [
+    {
+      "label": "english",
+      "code": "en"
+    },
+    {
+      "label": "français",
+      "code": "fr"
+    }
+  ],
+  "en": {
+    "metaTitle": "Amélie Thoughts",
+    "metaDescription": "Posts and Sketchnotes about tech and everything I'm working with: React, Conferences, Soft skills..."
+  },
+  "fr": {
+    "metaTitle": "Pensées d'Amélie",
+    "metaDescription": "Articles et Sketchnotes sur la tech et tout ce sur lequel je travaille au quotidien: React, Conferences, Soft skills..."
+  },
   "footerLinks": [
     {
       "text": "RSS",

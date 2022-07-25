@@ -1,0 +1,11 @@
+--- 
+layout: base.njk 
+permalink: '{{ locale }}/blog/'
+---
+
+<h1>All Posts</h1>
+<div class="tags">
+  {% include "tags-list.njk" %}
+</div>
+{% set postslist = collections["posts_" + locale] %}
+{% include "posts-list.njk" %}
