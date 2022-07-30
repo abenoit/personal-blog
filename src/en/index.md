@@ -5,4 +5,4 @@ title: "Amélie"
 
 # Hello World
 
-Reflexions, articles et sketchnotes d'une dév en 2022.
+Thoughts, articles and sketchnotes of a web developer in 2022.

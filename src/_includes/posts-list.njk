@@ -9,7 +9,8 @@
           <span>
             |
           </span>
-          <span>{{ post | readingTime }} read</span>
+          <span>{{ post | readingTime }}
+            {{ i18n[locale].read_time }}</span>
         </div>
         <div class="post-list__tags">
           {% for tag in post.data.tags %}
@@ -29,7 +30,7 @@
         <a href="{{ post.url }}">{{ post.data.title }}</a>
       </h3>
       <p class="post-list__excerpt">{{ post.templateContent | excerpt | safe }}</p>
-      <a class="post-list__read-more" href="{{ post.url }}">read article</a>
+      <a class="post-list__read-more" href="{{ post.url }}">{{ i18n[locale].read_article }}</a>
     </li>
   {% endfor %}
 </ul>

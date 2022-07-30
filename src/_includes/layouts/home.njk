@@ -28,4 +28,4 @@ translationKey: homePage
   {% set postslist =  collections["posts_" + locale] | head(-10) %}
   {% include "posts-list.njk" %}
 </section>
-<a class="all-posts-link" href="{{ '{{ locale }}/blog/' | url }}">View All Posts</a>
+<a class="all-posts-link" href="{{ '{{ locale }}/blog/' | url }}">{{ i18n[locale].all_posts }}</a>
