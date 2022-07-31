@@ -29,7 +29,7 @@ D'autres articles seront bientôt disponibles pour partager sur le processus de 
 
 ![Photo d'Amélie sur scène](/images/devoxx/me_conf4.jpg)
 
-Speaker: **Amélie Benoit**
+Speakerine: **Amélie Benoit**
 
 Sources sur Github (slides + code): [https://github.com/abenoit/react-states](https://github.com/abenoit/react-states)
 
@@ -43,7 +43,7 @@ Avec des exemples de code, nous verrons ensemble trois acteurs majeurs de la ges
 
 ![Photo d'Amélie sur scène](/images/devoxx/me_conf3.jpg)
 
-Speaker: **Amélie Benoit**
+Speakerine: **Amélie Benoit**
 
 Sources sur Github (slides + code): [https://github.com/abenoit/email-templates](https://github.com/abenoit/email-templates)
 
@@ -69,7 +69,7 @@ Comme toujours, les keynotes ouvrent l'esprit sur notre écosystème et ses rép
 
 ## Jour 2
 
-![Sketchnote de la keynote d'ouverture, jour 1](/images/devoxx/sketchnotes/keynote2.jpeg)
+![Sketchnote de la keynote d'ouverture, jour 2](/images/devoxx/sketchnotes/keynote2.jpeg)
 
 ### Vidéos
 
@@ -107,7 +107,7 @@ Dans cette opération à code ouvert sous forme d’un mob-programming intéract
 
 ## Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech
 
-Mon coup de cœeur de Devoxx France 2022 ! Marcy donne des explications sur les sentiments des minorités dans l'écosystème de la tech et des clés pour aider a mieux les inclure en société.
+Mon coup de cœeur de Devoxx France 2022 ! Marcy donne des explications sur les sentiments des minorités dans l'écosystème de la tech et des clés pour aider à mieux les inclure en société.
 
 ![Sketchnote de la conférence "Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech"](/images/devoxx/sketchnotes/marcy.jpeg)
 
@@ -189,3 +189,56 @@ Speakerines:
 Résumé: Kubernetes est assez complexe comme cela … mais savez vous qu’il est possible de rajouter des fonctionnalités à notre orchestrateur préféré grâce aux plugins et à un petit outil : Krew ?
 
 Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un plugin à Kubernetes permettant de rendre plus user-friendly nos pods (selon la thématique saisonnière ^^). Mais ce n’est pas tout ! Le but est aussi de le partager aux autres et pour cela, Krew est “The place to be”. A la fin de ce talk vous aurez toutes les billes en main afin de pouvoir réaliser & partager votre propre plugin.
+
+## OAuth2 expliqué simplement, même si tu n'es pas un dev
+
+Un gros coup de cœeur aussi pour cette conférence où j'ai pu découvrir les talents oratoires de Julien Topçu (pour la seconde fois puisqu'il était aussi sur la conférence de l'archi hexagonale). Julien nous amène dans un univers scénarisé sur les explications et évolutions qui nous ont amené au système qu'est aujourd'hui OAuth2, au travers d'allégories qui aident à comprendre des termes et concepts parfois complexes. Clair (limpide même) et ludique, ne manquez pas de regarder cette conférence pour mieux comprendre ce qu'il se cache derrière ce mécanisme d'authorisation !
+
+Speaker: **Julien Topçu**
+[Vidéo de la conférence](https://youtu.be/YdShQveywpo)
+
+Résumé: Il est très difficile aujourd'hui de déployer une application sur le web sans se frotter à OAuth2. Conçu pour mieux protéger les utilisateurs et les utilisatrices, ce standard de délégation d'autorisation s'est totalement imposé dans l'industrie.
+
+Cependant, n'avez-vous pas pleuré en essayant de comprendre les concepts de OAuth2 ? On ne va pas se mentir, entre les différents rôles et la multitude de flows qui le constituent, il y a vraiment de quoi se perdre et sa complexité en décourage plus d'un ! Et pourtant, on ne peut pas s'en passer, donc on y va et généralement c'est douloureux…
+
+Mais ne vous inquiétez pas, que vous ayez un profil tech ou non, ce talk va vous permettre d'enfin comprendre les méandres de OAuth simplement, dont la nouvelle version 2.1, en s'appuyant sur des analogies de la vie courante !
+
+## Equity for software engineers
+
+Lorsque l'on rejoint une entreprise, seul le salaire ne compte pas dans la balance. En rejoignant une startup notamment, les employés se voient offrir d'autres avantages aux acronymes un peu effrayants. Damien explique clairement et simplement à quoi ils correspondent, et ce pourquoi il peut-être intéressant de les prendre en compte !
+
+> Il y a une erreur de calcul dans ce sketchnote, que je n'ai toujours pas corrigé.
+
+![Sketchnote de la conférence "Equity for software engineers"](/images/devoxx/sketchnotes/equity.jpeg)
+
+Speaker: **Damien Pacaud**
+
+[Vidéo de la conférence](https://youtu.be/ovx-8OWt6Fc)
+
+Résumé: De plus en plus d entreprises proposent, en complément de la rémunération, des « packages d’équity ».
+
+C’est un cercle vertueux qui démarre en Europe et il peut être utile de prendre ces éléments en compte lorsque vous cherchez votre nouvel emploi.
+
+Bien souvent, les développeurs en France considèrent peu ces éléments de rémunération et n'y prêtent pas beaucoup d'attention.
+
+Ce talk a pour but de démystifier le monde bizarre des BSPCE, AGA, RSU, Warrants et autres Stock options.
+
+## Record du monde
+
+Benoît explique habillement ce que sont les DataClass en Python, une nouveauté dans Java 17 sous le nom de Records qui sont utiles dans un grand nombre de cas (notamment sur un back-end basé en DDD).
+
+Speaker: **Benoît Prioux**
+
+[Vidéo de la conférence](https://youtu.be/O1mclmBNiGM)
+
+Résumé: Les Records sont l’une des nouveautés les plus attendues avec la sortie de Java 17. Des concepts similaires ont déjà été introduits dans d’autres langages: data class en Kotlin, @dataclass en Python, case class en Scala.
+
+Pattern assez simple de premier abord, les records vont devenir un véritable indispensable de votre boite à outils de développeur.
+
+Après un tour d’horizon des implémentations dans les différents langages, je vous propose de vous partager différents cas d’utilisations pour du pattern matching, du DDD et même pour des monoids 😱.
+
+# Conclusion
+
+Évidemment, il reste encore plein de pépites à découvrir en replay sur la chaîne YouTube de Devoxx France.
+
+Cette année encore, j'ai passé un excellent moment à Devoxx France, 3 jours intenses, certes, mais tellement vivants et enrichissants ! Je n'ai même pas parlé des BoFs (Birth of Feather) qui permettent d'échanger sur des thèmes variés en petit groupes (Coucou les Duchess !), le concert, la soirée vins & fromages, la keynote de fermeture avec les cast-codeurs... Peut-être l'occasion d'un second article à ce sujet !
