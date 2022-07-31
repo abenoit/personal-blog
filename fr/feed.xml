@@ -6,7 +6,7 @@
   <link href="{{locale}}/feed.xml" rel="self"/>
   <link href="/"/>
   
-    <updated>2022-07-25T00:00:00+00:00</updated>
+    <updated>2022-07-31T00:00:00+00:00</updated>
   
   <id></id>
   <author>
@@ -22,7 +22,7 @@
       <id>/fr/blog/retour-sur-devoxx/</id>
       <content type="html">
         <![CDATA[
-      <p>Devoxx France a repris de plus belle en 2022 ! Retour sur mon experience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes. 3 jours résumés en quelques mots et dessins: Hold my beer!</p>
+      <p>Devoxx France a repris de plus belle en 2022 ! Retour sur mon expérience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes. 3 jours résumés en quelques mots et dessins: Hold my beer!</p>
 <p><img src="/images/devoxx/hold-my-beer.jpeg" alt="Hold my beer"></p>
 <h1>Devoxx France, en quelques mots</h1>
 <p>Devoxx, c'est la plus grande conférence pour les développeurs en France. Elle a lieu chaque année, à Paris et sur 3 jours, et regroupe pas moins de 3200 personnes. Plus de 170 conférences (formats divers: keynotes, univertities, quickies, hands-on-labs et conférences) sur des thèmes variés (web, UX, Java, big data, cloud...).</p>
@@ -33,14 +33,14 @@
 <p>D'autres articles seront bientôt disponibles pour partager sur le processus de soumission au CFP et de mon expérience de speaker.</p>
 <h2>React dans tous ses états</h2>
 <p><img src="/images/devoxx/me_conf4.jpg" alt="Photo d'Amélie sur scène"></p>
-<p>Speakerine: <strong>Amélie Benoit</strong></p>
+<p>Speakerine: <a href="https://twitter.com/AmelieBenoit33"><strong>Amélie Benoit</strong></a></p>
 <p>Sources sur Github (slides + code): <a href="https://github.com/abenoit/react-states">https://github.com/abenoit/react-states</a></p>
 <p><a href="https://youtu.be/4iyYhLVxruI">Vidéo de la conférence</a></p>
 <p>Résumé: Que nos applications soient legacy ou complètement nouvelles, la question du stockage et de la gestion des données est une constante. Il existe aujourd'hui de nombreuses façon de gérer ce state, mais peu de guidelines fortes.</p>
 <p>Avec des exemples de code, nous verrons ensemble trois acteurs majeurs de la gestion du state en React aujourd'hui: de la solution native à Recoil en passant par Redux-toolkit.</p>
 <h2>Templates d'email: l'aventure dont vous êtes le héros</h2>
 <p><img src="/images/devoxx/me_conf3.jpg" alt="Photo d'Amélie sur scène"></p>
-<p>Speakerine: <strong>Amélie Benoit</strong></p>
+<p>Speakerine: <a href="https://twitter.com/AmelieBenoit33"><strong>Amélie Benoit</strong></a></p>
 <p>Sources sur Github (slides + code): <a href="https://github.com/abenoit/email-templates">https://github.com/abenoit/email-templates</a></p>
 <p><a href="https://youtu.be/pNavFCYWBFA">Vidéo de la conférence</a></p>
 <p>Résumé: Vous êtes la personne qui s'est portée volontaire pour écrire les templates HTML pour la prochaine campagne d'email de votre entreprise. Mais qui dit HTML, dit interprétation de rendu. Votre expérience avec Internet Explorer vous avait déjà laissé quelques traces, et votre instinct vous dit - à raison - de vous méfier tout autant des client mails qui liront votre template...</p>
@@ -71,9 +71,9 @@
 <p><img src="/images/devoxx/sketchnotes/archi-hexa.jpeg" alt="Sketchnote de la conférence &quot;Architecturoplastie hexagonale d’un backend Node.js&quot;"></p>
 <p>Speakers:</p>
 <ul>
-<li><strong>Jordan Nourry</strong></li>
-<li><strong>Adrien Joly</strong></li>
-<li><strong>Julien Topçu</strong></li>
+<li><a href="https://twitter.com/JkNourry"><strong>Jordan Nourry</strong></a></li>
+<li><a href="https://twitter.com/adrienjoly"><strong>Adrien Joly</strong></a></li>
+<li><a href="https://twitter.com/JulienTopcu"><strong>Julien Topçu</strong></a></li>
 </ul>
 <p><a href="https://youtu.be/r2XMwAUqZBA">Vidéo de la conférence</a></p>
 <p>Résumé: Votre backend n'a même pas 3 ans et pourtant, il n’est pas en forme. Il devient difficile d’y ajouter de nouvelles fonctionnalités, de maintenir et/ou de refactorer l’existant. Le code est intolérant à la montée de versions de librairies, pouvant lui causer une régressionnite fonctionnelle aiguë. Les tests deviennent douloureux à l’écriture.</p>
@@ -83,7 +83,7 @@
 <h2>Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech</h2>
 <p>Mon coup de cœeur de Devoxx France 2022 ! Marcy donne des explications sur les sentiments des minorités dans l'écosystème de la tech et des clés pour aider à mieux les inclure en société.</p>
 <p><img src="/images/devoxx/sketchnotes/marcy.jpeg" alt="Sketchnote de la conférence &quot;Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech&quot;"></p>
-<p>Speakerine: <strong>Marcy Ericka Charollois</strong></p>
+<p>Speakerine: <a href="https://twitter.com/MarcyChama"><strong>Marcy Ericka Charollois</strong></a></p>
 <p><a href="https://youtu.be/6g0quTQqpr8">Vidéo de la conférence</a></p>
 <p>Résumé: Les femmes sont sous-représentées dans le domaine du numérique. Elles représentent à ce jour uniquement 30% des salariés, tous métiers confondus.</p>
 <p>Que s´est-il passé dans ce secteur professionnel pourtant dominé par la gente feminine lors de sa génèse ? Les femmes ne se sentiraient-elles plus ou pas à leurs places ?</p>
@@ -98,8 +98,8 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <p><img src="/images/devoxx/sketchnotes/mob-prog.jpeg" alt="Sketchnote de la conférence &quot;Mob programming, la véritable approche du développement en équipe&quot;"></p>
 <p>Speakers:</p>
 <ul>
-<li><strong>Maxime Odye</strong></li>
-<li><strong>Mathieu Pousse</strong></li>
+<li><a href="https://twitter.com/MaxOdye"><strong>Maxime Odye</strong></a></li>
+<li><a href="https://twitter.com/m_pousse"><strong>Mathieu Pousse</strong></a></li>
 </ul>
 <p><a href="https://youtu.be/nTR7AxqI9WQ">Vidéo de la conférence</a></p>
 <p>Résumé: Shérif, le manager, est en colère. Il vient de surprendre toute l’équipe de développement autour d’une même machine. Rendez-vous compte ! Après des comparaisons douteuses avec la DDE, il les a bien sermonnés et leur a ordonné de retourner à leur poste de travail immédiatement, un peu de sérieux ! Avec Shérif, la bamboche, c’est terminé !</p>
@@ -109,7 +109,7 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <h2>S'affranchir de la Pyramide des Tests</h2>
 <p>Les tests et leur pyramide; on connait tous. Jonathan nous explique pourquoi il a remis en question tous ces principes, ce qui ne fonctionnait pas tout en expliquant ce qui reste important à garder en tête lorsque l'on écrit des tests pour son application.</p>
 <p><img src="/images/devoxx/sketchnotes/pyramide-tests.jpeg" alt="Sketchnote de la conférence &quot;S'affranchir de la Pyramide des Tests&quot;"></p>
-<p>Speaker: Jonathan Boccara</p>
+<p>Speaker: <a href="https://twitter.com/JoBoccara"><strong>Jonathan Boccara</strong></a></p>
 <p><a href="https://youtu.be/QL0HBeIAny0">Vidéo de la conférence</a></p>
 <p>Résumé: Tester son code c'est facile à dire, mais écrire des tests utiles dans du code en entreprise, c'est pas toujours facile à faire.</p>
 <p>En théorie les tests doivent nous aider, pourtant: - Le code ne se prête pas toujours aux tests unitaires, - On se retrouve parfois à refactorer les tests quand on refactore le code, - La pyramide des tests est souvent inversée, - Certains tests sont toujours verts, sauf quand ils sont rouges pour de mauvaises raisons, - On a beau tester le code, on a toujours des bugs, - Etc.</p>
@@ -122,16 +122,16 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <p><img src="/images/devoxx/sketchnotes/kubernetes.jpeg" alt="Sketchnote de la conférence &quot;Créer &amp; distribuer un plugin pour Kubernetes en quelques minutes ? Easy !&quot;"></p>
 <p>Speakerines:</p>
 <ul>
-<li><strong>Aurélie Vache</strong></li>
-<li><strong>Gaëlle Acas</strong></li>
+<li><a href="https://twitter.com/aurelievache"><strong>Aurélie Vache</strong></a></li>
+<li><a href="https://twitter.com/Gaelleacas"><strong>Gaëlle Acas</strong></a></li>
 </ul>
 <p><a href="https://youtu.be/CMEJxGe-VoQ">Vidéo de la conférence</a></p>
 <p>Résumé: Kubernetes est assez complexe comme cela … mais savez vous qu’il est possible de rajouter des fonctionnalités à notre orchestrateur préféré grâce aux plugins et à un petit outil : Krew ?</p>
 <p>Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un plugin à Kubernetes permettant de rendre plus user-friendly nos pods (selon la thématique saisonnière ^^). Mais ce n’est pas tout ! Le but est aussi de le partager aux autres et pour cela, Krew est “The place to be”. A la fin de ce talk vous aurez toutes les billes en main afin de pouvoir réaliser &amp; partager votre propre plugin.</p>
 <h2>OAuth2 expliqué simplement, même si tu n'es pas un dev</h2>
 <p>Un gros coup de cœeur aussi pour cette conférence où j'ai pu découvrir les talents oratoires de Julien Topçu (pour la seconde fois puisqu'il était aussi sur la conférence de l'archi hexagonale). Julien nous amène dans un univers scénarisé sur les explications et évolutions qui nous ont amené au système qu'est aujourd'hui OAuth2, au travers d'allégories qui aident à comprendre des termes et concepts parfois complexes. Clair (limpide même) et ludique, ne manquez pas de regarder cette conférence pour mieux comprendre ce qu'il se cache derrière ce mécanisme d'authorisation !</p>
-<p>Speaker: <strong>Julien Topçu</strong>
-<a href="https://youtu.be/YdShQveywpo">Vidéo de la conférence</a></p>
+<p>Speaker: <a href="https://twitter.com/JulienTopcu"><strong>Julien Topçu</strong></a></p>
+<p><a href="https://youtu.be/YdShQveywpo">Vidéo de la conférence</a></p>
 <p>Résumé: Il est très difficile aujourd'hui de déployer une application sur le web sans se frotter à OAuth2. Conçu pour mieux protéger les utilisateurs et les utilisatrices, ce standard de délégation d'autorisation s'est totalement imposé dans l'industrie.</p>
 <p>Cependant, n'avez-vous pas pleuré en essayant de comprendre les concepts de OAuth2 ? On ne va pas se mentir, entre les différents rôles et la multitude de flows qui le constituent, il y a vraiment de quoi se perdre et sa complexité en décourage plus d'un ! Et pourtant, on ne peut pas s'en passer, donc on y va et généralement c'est douloureux…</p>
 <p>Mais ne vous inquiétez pas, que vous ayez un profil tech ou non, ce talk va vous permettre d'enfin comprendre les méandres de OAuth simplement, dont la nouvelle version 2.1, en s'appuyant sur des analogies de la vie courante !</p>
@@ -141,7 +141,7 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <p>Il y a une erreur de calcul dans ce sketchnote, que je n'ai toujours pas corrigé.</p>
 </blockquote>
 <p><img src="/images/devoxx/sketchnotes/equity.jpeg" alt="Sketchnote de la conférence &quot;Equity for software engineers&quot;"></p>
-<p>Speaker: <strong>Damien Pacaud</strong></p>
+<p>Speaker: <a href="https://twitter.com/damienpacaud"><strong>Damien Pacaud</strong></a></p>
 <p><a href="https://youtu.be/ovx-8OWt6Fc">Vidéo de la conférence</a></p>
 <p>Résumé: De plus en plus d entreprises proposent, en complément de la rémunération, des « packages d’équity ».</p>
 <p>C’est un cercle vertueux qui démarre en Europe et il peut être utile de prendre ces éléments en compte lorsque vous cherchez votre nouvel emploi.</p>
@@ -149,7 +149,7 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <p>Ce talk a pour but de démystifier le monde bizarre des BSPCE, AGA, RSU, Warrants et autres Stock options.</p>
 <h2>Record du monde</h2>
 <p>Benoît explique habillement ce que sont les DataClass en Python, une nouveauté dans Java 17 sous le nom de Records qui sont utiles dans un grand nombre de cas (notamment sur un back-end basé en DDD).</p>
-<p>Speaker: <strong>Benoît Prioux</strong></p>
+<p>Speaker: <a href="https://twitter.com/binout"><strong>Benoît Prioux</strong></a></p>
 <p><a href="https://youtu.be/O1mclmBNiGM">Vidéo de la conférence</a></p>
 <p>Résumé: Les Records sont l’une des nouveautés les plus attendues avec la sortie de Java 17. Des concepts similaires ont déjà été introduits dans d’autres langages: data class en Kotlin, @dataclass en Python, case class en Scala.</p>
 <p>Pattern assez simple de premier abord, les records vont devenir un véritable indispensable de votre boite à outils de développeur.</p>
@@ -157,6 +157,68 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <h1>Conclusion</h1>
 <p>Évidemment, il reste encore plein de pépites à découvrir en replay sur la chaîne YouTube de Devoxx France.</p>
 <p>Cette année encore, j'ai passé un excellent moment à Devoxx France, 3 jours intenses, certes, mais tellement vivants et enrichissants ! Je n'ai même pas parlé des BoFs (Birth of Feather) qui permettent d'échanger sur des thèmes variés en petit groupes (Coucou les Duchess !), le concert, la soirée vins &amp; fromages, la keynote de fermeture avec les cast-codeurs... Peut-être l'occasion d'un second article à ce sujet !</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>DevFest Lille 2022</title>
+      <link href="/fr/blog/retour-sur-devfest-lille/"/>
+      <updated>2022-07-31T00:00:00+00:00</updated>
+      <id>/fr/blog/retour-sur-devfest-lille/</id>
+      <content type="html">
+        <![CDATA[
+      <p>L'année 2022 marque le grand retour de toutes les conférences en France. Après Devoxx France, j'ai eu l'immense honneur d'être acceptée et de pouvoir participer au DevFest Lille - une première fois pour moi au DevFest et à Lille ! Retour sur mon expérience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes.</p>
+<h1>DevFest ?</h1>
+<p>La conférence se déroule sur une journée, 3 salles de cinéma (oui oui!) ont été aménagées pour y recevoir un speaker et des participants. Sièges confortables, écran géant... C'était une expérience assez incroyable !</p>
+<p>J'ai été incroyablement surprise par tous les efforts que l'équipe d'organisation a fait sur:</p>
+<ul>
+<li>la diversité: je reconnais tous les efforts qui ont été faits pour obtenir une diversité au sein des speakers et des participants. Et le résultat est là !</li>
+<li>l'inclusivité: toutes les conférences étaient sous-titrées en direct afin de permettre aux personnes malentendantes de pouvoir suivre correctement.</li>
+<li>l'aspect écologique: 0 déchet ! Toutes les boissons étaient consignées, les repas et collations servis dans des contenants réutilisables. Quand on sait la charge que représente une conférence, on est déjà impressionnés, mais là c'est encore un autre niveau.</li>
+</ul>
+<p>Énorme shoutout à toute l'équipe pour cette organisation de folie !</p>
+<p><img src="/images/devfest_lille/consignes.jpeg" alt="Photo d'un panneau indiquant la consigne pour les boissons"></p>
+<h1>Mon expérience speaker: React dans tous ses états</h1>
+<p>J'ai eu l'honneur d'être sélectionnée pour présenter un sujet sur la gestion des états dans React.</p>
+<p>D'autres articles seront bientôt disponibles pour partager sur le processus de soumission au CFP et de mon expérience de speaker.</p>
+<p><img src="/images/devfest_lille/me_conf4.jpeg" alt="Photo d'Amélie sur scène">
+<img src="/images/devfest_lille/me_conf1.jpeg" alt="Photo d'Amélie sur scène"></p>
+<blockquote>
+<p>À noter comme je parais minuscule devant cet écran démesuré !</p>
+</blockquote>
+<p>Speakerine: <strong>Amélie Benoit</strong></p>
+<p>Sources sur Github (slides + code): <a href="https://github.com/abenoit/react-states">https://github.com/abenoit/react-states</a></p>
+<p><a href="https://youtu.be/vRjtAhLz4Fs">Vidéo de la conférence</a></p>
+<p>Résumé: Que nos applications soient legacy ou complètement nouvelles, la question du stockage et de la gestion des données est une constante. Il existe aujourd'hui de nombreuses façons de gérer ce state, mais peu de guidelines fortes.</p>
+<p>Avec des exemples de code, nous verrons ensemble trois acteurs majeurs de la gestion du state en React aujourd'hui: de la solution native à Recoil en passant par Redux-toolkit.</p>
+<h1>Keynote d'ouverture</h1>
+<p>Speaker: Nicolas Karasiewicz</p>
+<p>Nicolas est éveilleur de conscience et nous a expliqué, sous fond de beaucoup d'humour et d'autodérision à quel point l'accessibilité est importante. Qu'un client handicapé reste un client à part entière et qu'il existe aujourd'hui énormément d'outils et processus à notre disposition pour aider toute personne à naviguer sur un site.</p>
+<p><img src="/images/devfest_lille/sketchnotes/keynote.jpeg" alt="Sketchnote de la keynote d'ouverture"></p>
+<p><a href="https://youtu.be/-yAQBGYbNeU">Video en replay</a></p>
+<h1>Conférences</h1>
+<p>Je ne vais pas faire un résumé de toutes les conférences, mais seulement de celles auxquelles j'ai pu assister et faire un compte rendu. Toutes les <a href="https://www.youtube.com/watch?v=-yAQBGYbNeU&amp;list=PLuZ_sYdawLiUbKK6sY1fh_cYtoT6IZg0B&amp;ab_channel=GDGFrance">vidéos sont disponibles en ligne</a> si vous souhaitez les visualiser !</p>
+<h2>Technically speaking: how to improve your documentation</h2>
+<p>Speakerine: <a href="https://twitter.com/heyawhite"><strong>Alexandra White</strong></a></p>
+<p>Talk en anglais présenté par Alexandra, et qui nous explique pourquoi et comment écrire des documentations efficientes pour nos projets. Amené avec beaucoup d'humour et de légèreté, elle nous donne ici des clés pour nous aider dans ce process qui nous est parfois pénible et pourtant si important.</p>
+<p><a href="/images/devfest_lille/sketchnotes/docs.jpeg"><img src="/images/devfest_lille/sketchnotes/docs.jpeg" alt="Sketchnote de la conférence d'Alexandre White sur le thème &quot;Technically speaking: how to improve your documentation&quot;"></a>)</p>
+<p><a href="https://youtu.be/b0p2U7IyCKs">Video en replay</a></p>
+<h2>RGPD pour les développeurs</h2>
+<p>Speaker: <a href="https://twitter.com/fdelbrayelle"><strong>François Delbrayelle</strong></a></p>
+<p>François revient sur les principes de la RGPD, par qui et pourquoi ces règles ont été instaurées. Il nous donne ensuite des astuces pour intégrer ces principes dans nos projets, au quotidien, afin de s'assurer que nous ne nous y écartons pas.</p>
+<p><a href="/images/devfest_lille/sketchnotes/rgpd.jpeg"><img src="/images/devfest_lille/sketchnotes/rgpd.jpeg" alt="Sketchnote de la conférence de François Delbrayelle sur le thème &quot;RGPD pour les développeurs&quot;"></a></p>
+<p><a href="https://youtu.be/wkbQ6Ec4qXY">Video en replay</a></p>
+<h2>Au secours, l'accessibilité s'invite dans mes projets web !</h2>
+<p>Speakerine: <a href="https://twitter.com/elbuffeto"><strong>Loriane Buffet</strong></a></p>
+<p>J'ai beaucoup apprécié ce talk de Loriane sur l'accessibilité. Elle revient notamment sur des bénéfices induits pour les personnes valides et / ou pour les projets qu'elle démonte. Un talk qui remet les choses à leur place, donne des clés sur les mauvaises pratiques et explique que rendre son site accessible concerne finalement tous les métiers.</p>
+<p><a href="/images/devfest_lille/sketchnotes/accessibilite.jpeg"><img src="/images/devfest_lille/sketchnotes/accessibilite.jpeg" alt="Sketchnote de la conférence de Loriane Buffet &quot;Au secours, l'accessibilité s'invite dans mon projet web !&quot;"></a></p>
+<p><a href="https://youtu.be/UBylwNBZEfk">Video en replay</a></p>
+<h1>Conclusion</h1>
+<p>Évidemment, il reste encore plein de pépites à découvrir en replay sur la chaîne YouTube du GDG Lille. Je pense notamment à la conférence de <a href="https://youtu.be/212xdm2ZhRo">Florence Chabanois</a>, ou encore celle de <a href="https://youtu.be/yOjCb4CloTw">Rose Mazari</a> qui sont à voir !</p>
+<p>Pour une première fois, j'ai absolument adoré mon expérience au DevFest Lille. Excellente ambiance, valeurs fortes, accueil chaleureux, et des conférences des plus intéressantes. Je me suis sentie honorée de faire partie des présentateurs, tant tous m'ont paru pertinents et intéressants dans leur présentation. J'espère avoir l'occasion de renouveler l'aventure !</p>
 
     ]]>
       </content>
