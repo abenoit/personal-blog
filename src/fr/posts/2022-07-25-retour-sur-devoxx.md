@@ -1,13 +1,13 @@
 ---
 title: Retour sur Devoxx 2022
-description: Devoxx France a repris de plus belle en 2022 ! Retour sur mon experience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes.
+description: Devoxx France a repris de plus belle en 2022 ! Retour sur mon expérience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes.
 date: "2022-07-25"
 tags: [conference, sketchnote, devoxx]
 image: "/images/devoxx/me_conf1.jpeg"
 translationKey: "post_devoxx_2022"
 ---
 
-Devoxx France a repris de plus belle en 2022 ! Retour sur mon experience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes. 3 jours résumés en quelques mots et dessins: Hold my beer!
+Devoxx France a repris de plus belle en 2022 ! Retour sur mon expérience en tant que speaker, partage des conférences que j'ai aimées et de mes Sketchnotes. 3 jours résumés en quelques mots et dessins: Hold my beer!
 
 ![Hold my beer](/images/devoxx/hold-my-beer.jpeg)
 
@@ -29,7 +29,7 @@ D'autres articles seront bientôt disponibles pour partager sur le processus de 
 
 ![Photo d'Amélie sur scène](/images/devoxx/me_conf4.jpg)
 
-Speakerine: **Amélie Benoit**
+Speakerine: [**Amélie Benoit**](https://twitter.com/AmelieBenoit33)
 
 Sources sur Github (slides + code): [https://github.com/abenoit/react-states](https://github.com/abenoit/react-states)
 
@@ -43,7 +43,7 @@ Avec des exemples de code, nous verrons ensemble trois acteurs majeurs de la ges
 
 ![Photo d'Amélie sur scène](/images/devoxx/me_conf3.jpg)
 
-Speakerine: **Amélie Benoit**
+Speakerine: [**Amélie Benoit**](https://twitter.com/AmelieBenoit33)
 
 Sources sur Github (slides + code): [https://github.com/abenoit/email-templates](https://github.com/abenoit/email-templates)
 
@@ -91,9 +91,9 @@ En tant que dev front-end, c'était plus par curiosité que j'ai pris place sur 
 
 Speakers:
 
-- **Jordan Nourry**
-- **Adrien Joly**
-- **Julien Topçu**
+- [**Jordan Nourry**](https://twitter.com/JkNourry)
+- [**Adrien Joly**](https://twitter.com/adrienjoly)
+- [**Julien Topçu**](https://twitter.com/JulienTopcu)
 
 [Vidéo de la conférence](https://youtu.be/r2XMwAUqZBA)
 
@@ -111,7 +111,7 @@ Mon coup de cœeur de Devoxx France 2022 ! Marcy donne des explications sur les 
 
 ![Sketchnote de la conférence "Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech"](/images/devoxx/sketchnotes/marcy.jpeg)
 
-Speakerine: **Marcy Ericka Charollois**
+Speakerine: [**Marcy Ericka Charollois**](https://twitter.com/MarcyChama)
 
 [Vidéo de la conférence](https://youtu.be/6g0quTQqpr8)
 
@@ -138,8 +138,8 @@ On a probablement tous déjà fait du mob-programming dans nos entreprises; c'es
 
 Speakers:
 
-- **Maxime Odye**
-- **Mathieu Pousse**
+- [**Maxime Odye**](https://twitter.com/MaxOdye)
+- [**Mathieu Pousse**](https://twitter.com/m_pousse)
 
 [Vidéo de la conférence](https://youtu.be/nTR7AxqI9WQ)
 
@@ -157,7 +157,7 @@ Les tests et leur pyramide; on connait tous. Jonathan nous explique pourquoi il 
 
 ![Sketchnote de la conférence "S'affranchir de la Pyramide des Tests"](/images/devoxx/sketchnotes/pyramide-tests.jpeg)
 
-Speaker: Jonathan Boccara
+Speaker: [**Jonathan Boccara**](https://twitter.com/JoBoccara)
 
 [Vidéo de la conférence](https://youtu.be/QL0HBeIAny0)
 
@@ -181,8 +181,8 @@ Je suis à nouveau sortie de ma zone de confort en assistant à une conférence 
 
 Speakerines:
 
-- **Aurélie Vache**
-- **Gaëlle Acas**
+- [**Aurélie Vache**](https://twitter.com/aurelievache)
+- [**Gaëlle Acas**](https://twitter.com/Gaelleacas)
 
 [Vidéo de la conférence](https://youtu.be/CMEJxGe-VoQ)
 
@@ -194,7 +194,8 @@ Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un
 
 Un gros coup de cœeur aussi pour cette conférence où j'ai pu découvrir les talents oratoires de Julien Topçu (pour la seconde fois puisqu'il était aussi sur la conférence de l'archi hexagonale). Julien nous amène dans un univers scénarisé sur les explications et évolutions qui nous ont amené au système qu'est aujourd'hui OAuth2, au travers d'allégories qui aident à comprendre des termes et concepts parfois complexes. Clair (limpide même) et ludique, ne manquez pas de regarder cette conférence pour mieux comprendre ce qu'il se cache derrière ce mécanisme d'authorisation !
 
-Speaker: **Julien Topçu**
+Speaker: [**Julien Topçu**](https://twitter.com/JulienTopcu)
+
 [Vidéo de la conférence](https://youtu.be/YdShQveywpo)
 
 Résumé: Il est très difficile aujourd'hui de déployer une application sur le web sans se frotter à OAuth2. Conçu pour mieux protéger les utilisateurs et les utilisatrices, ce standard de délégation d'autorisation s'est totalement imposé dans l'industrie.
@@ -211,7 +212,7 @@ Lorsque l'on rejoint une entreprise, seul le salaire ne compte pas dans la balan
 
 ![Sketchnote de la conférence "Equity for software engineers"](/images/devoxx/sketchnotes/equity.jpeg)
 
-Speaker: **Damien Pacaud**
+Speaker: [**Damien Pacaud**](https://twitter.com/damienpacaud)
 
 [Vidéo de la conférence](https://youtu.be/ovx-8OWt6Fc)
 
@@ -227,7 +228,7 @@ Ce talk a pour but de démystifier le monde bizarre des BSPCE, AGA, RSU, Warrant
 
 Benoît explique habillement ce que sont les DataClass en Python, une nouveauté dans Java 17 sous le nom de Records qui sont utiles dans un grand nombre de cas (notamment sur un back-end basé en DDD).
 
-Speaker: **Benoît Prioux**
+Speaker: [**Benoît Prioux**](https://twitter.com/binout)
 
 [Vidéo de la conférence](https://youtu.be/O1mclmBNiGM)
 
