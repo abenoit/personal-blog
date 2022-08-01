@@ -107,7 +107,7 @@ Dans cette opération à code ouvert sous forme d’un mob-programming intéract
 
 ## Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech
 
-Mon coup de cœeur de Devoxx France 2022 ! Marcy donne des explications sur les sentiments des minorités dans l'écosystème de la tech et des clés pour aider à mieux les inclure en société.
+Mon coup de cœur de Devoxx France 2022 ! Marcy donne des explications sur les sentiments des minorités dans l'écosystème de la tech et des clés pour aider à mieux les inclure en société.
 
 ![Sketchnote de la conférence "Pourquoi vous n'attirez pas et ne retiendrez pas les femmes dans vos équipes tech"](/images/devoxx/sketchnotes/marcy.jpeg)
 
@@ -192,7 +192,7 @@ Nous verrons dans ce talk, qu’en quelques minutes il est possible de créer un
 
 ## OAuth2 expliqué simplement, même si tu n'es pas un dev
 
-Un gros coup de cœeur aussi pour cette conférence où j'ai pu découvrir les talents oratoires de Julien Topçu (pour la seconde fois puisqu'il était aussi sur la conférence de l'archi hexagonale). Julien nous amène dans un univers scénarisé sur les explications et évolutions qui nous ont amené au système qu'est aujourd'hui OAuth2, au travers d'allégories qui aident à comprendre des termes et concepts parfois complexes. Clair (limpide même) et ludique, ne manquez pas de regarder cette conférence pour mieux comprendre ce qu'il se cache derrière ce mécanisme d'authorisation !
+Un gros coup de cœur aussi pour cette conférence où j'ai pu découvrir les talents oratoires de Julien Topçu (pour la seconde fois puisqu'il était aussi sur la conférence de l'archi hexagonale). Julien nous amène dans un univers scénarisé sur les explications et évolutions qui nous ont amené au système qu'est aujourd'hui OAuth2, au travers d'allégories qui aident à comprendre des termes et concepts parfois complexes. Clair (limpide même) et ludique, ne manquez pas de regarder cette conférence pour mieux comprendre ce qu'il se cache derrière ce mécanisme d'authorisation !
 
 Speaker: [**Julien Topçu**](https://twitter.com/JulienTopcu)
 
