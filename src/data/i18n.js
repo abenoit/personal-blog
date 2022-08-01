@@ -1,6 +1,7 @@
 module.exports = {
   fr: {
-    all_posts: "Voir tous les articles",
+    all_posts: "Tous les articles",
+    view_all_posts: "Voir tous les articles",
     recent_posts: "Articles Récents",
     read_article: "Lire l'article",
     about: "A propos",
@@ -8,7 +9,8 @@ module.exports = {
     blog: "Blog",
   },
   en: {
-    all_posts: "View all Posts",
+    all_posts: "All posts",
+    view_all_posts: "View all Posts",
     recent_posts: "Recent Posts",
     read_article: "Read article",
     read_time: "read",
