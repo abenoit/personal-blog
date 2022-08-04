@@ -6,7 +6,7 @@
   <link href="{{locale}}/feed.xml" rel="self"/>
   <link href="/"/>
   
-    <updated>2022-07-31T00:00:00+00:00</updated>
+    <updated>2022-07-31T00:00:00Z</updated>
   
   <id></id>
   <author>
@@ -18,7 +18,7 @@
     <entry>
       <title>My Devoxx 2022</title>
       <link href="/en/blog/my-devoxx/"/>
-      <updated>2022-07-25T00:00:00+00:00</updated>
+      <updated>2022-07-25T00:00:00Z</updated>
       <id>/en/blog/my-devoxx/</id>
       <content type="html">
         <![CDATA[
@@ -169,7 +169,7 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
     <entry>
       <title>DevFest Lille 2022</title>
       <link href="/en/blog/devfest-lille/"/>
-      <updated>2022-07-31T00:00:00+00:00</updated>
+      <updated>2022-07-31T00:00:00Z</updated>
       <id>/en/blog/devfest-lille/</id>
       <content type="html">
         <![CDATA[
