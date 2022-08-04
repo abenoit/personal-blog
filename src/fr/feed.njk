@@ -8,15 +8,15 @@ permalink: '{{locale}}/feed.xml'
   <subtitle></subtitle>
   <link href="{{ site.url }}{{ permalink }}" rel="self"/>
   <link href="{{ site.url }}/"/>
-  {% if collections["posts_" + locale] | length %}
-    <updated>{{ collections["posts_" + locale] | rssLastUpdatedDate }}</updated>
+  {% if collections["posts_fr"] | length %}
+    <updated>{{ collections["posts_fr"] | rssLastUpdatedDate }}</updated>
   {% endif %}
   <id>{{ site.url }}</id>
   <author>
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
   </author>
-  {% for post in collections["posts_" + locale] %}
+  {% for post in collections["posts_fr"] %}
     {% set absolutePostUrl %}{{ site.url }}{{ post.url | url }}{% endset %}
     <entry>
       <title>{{ post.data.title }}</title>

@@ -50,12 +50,5 @@
     "metaTitle": "Blog d'Amélie",
     "metaDescription": "Articles et Sketchnotes sur la tech et tout ce sur lequel je travaille au quotidien: React, Conferences, Soft skills..."
   },
-  "footerLinks": [
-    {
-      "text": "RSS",
-      "url": "/feed.xml",
-      "external": true
-    }
-  ],
   "showFooterAttribution": true
 }
