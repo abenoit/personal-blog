@@ -3,7 +3,7 @@ title: Conseils pour son challenge technique offline
 description:
 date: "2022-08-05"
 tags: [tech, challenge, job]
-image: "/images/offline-tech-challenge/cat-computer.avif"
+image: "/images/offline-tech-challenge/computer-cat.jpg"
 translationKey: "post_offline_challenge_tips"
 ---
 
