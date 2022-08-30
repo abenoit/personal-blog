@@ -214,11 +214,9 @@ pre code {
 }
 
 mark {
-  background: var(--accent);
-  color: var(--background);
-  padding: 1px 6px;
-  margin: 0 2px;
-  font-size: 0.95rem;
+  background: var(--mark-background);
+  padding: 6px 0;
+  font-size: 1.25rem;
 }
 
 .visually-hidden {
