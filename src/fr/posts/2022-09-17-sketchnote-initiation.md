@@ -3,7 +3,7 @@ title: Initiation au Sketchnote
 description:
 date: "2022-08-27"
 tags: [sketchnote, softskill]
-image: "/images/sketchnote-initiation/sketchnote-title.png"
+image: "/images/sketchnote-initiation/title.png"
 translationKey: "post_sketchnote_initiation"
 ---
 
