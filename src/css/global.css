@@ -38,7 +38,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 img,
-video,
 canvas,
 audio,
 iframe,
@@ -47,8 +46,7 @@ object {
   display: block;
 }
 
-img,
-video {
+img {
   max-width: 100%;
   height: auto;
 }
@@ -147,11 +145,15 @@ h4 + p {
 
 iframe,
 audio,
-video,
 img {
-  width: 100%;
+  /* width: 100%; */
   max-width: 100%;
   margin-top: 1rem;
+}
+
+video {
+  display: flex;
+  margin: 2rem auto 0;
 }
 
 blockquote {
