@@ -5,7 +5,7 @@
   <link href="{{locale}}/feed.xml" rel="self"/>
   <link href="/"/>
   
-    <updated>2022-08-27T00:00:00Z</updated>
+    <updated>2022-10-11T00:00:00Z</updated>
   
   <id></id>
   <author>
@@ -548,6 +548,43 @@ Auteure en social tech, content strategist, fondatrice de Merci Marcy et The Saf
 <h2>Conclusion</h2>
 <p>Même si cela peut sembler intimidant de loin, <strong>LANCEZ-VOUS</strong>! C'est un moyen exceptionnel et ludique de prendre des notes, de retenir les informations et de les partager efficacement.</p>
 <p>Faîtes-vous votre dictionnaire de pictogrammes, polices, conteneurs, tentez des choses et surtout, <strong>prenez du plaisir</strong> ! Ça s'en ressentira lors de sa lecture 🙌</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Design Patterns en Sketchnote</title>
+      <link href="/fr/blog/sketchnote-design-patterns/"/>
+      <updated>2022-10-11T00:00:00Z</updated>
+      <id>/fr/blog/sketchnote-design-patterns/</id>
+      <content type="html">
+        <![CDATA[
+      <h1>Initiative</h1>
+<p>On utilise tellement d'outils, de frameworks, on lit tellement de code au quotidien... Je voulais prendre un moment pour repartir sur les bases de ce que j'avais pu voir à l'école et que je voyais repasser ici et là dans ma vie quotidienne. Afin de mieux comprendre. D'améliorer ma reflexion face à des problèmes.</p>
+<p>J'ai été très surprise de voir que les sketchnotes publiés sur Twitter avaient reçu un certain engouement; je les fais avec plaisir sur mon temps libre et chaque like, chaque message est une récompense que je n'attendais pas. Cela est aussi venu avec des débats passionnés et instructifs, notamment sur le Singleton pattern.</p>
+<p>Tous les sketchnotes sur les design pattern que je réalise sont et seront ajoutés dans cet article.</p>
+<p>La majorité du contenu des sketchnotes sont basés sur le site https://refactoring.guru</p>
+<h1>SOLID</h1>
+<p>5 principes de base OOP #SOLID que l’on retrouve parfois dans certain des patterns cités ensuite !</p>
+<p>Il s’avère que ces principes sont plus récents que je ne le pensais initialement 😇</p>
+<p><img src="/images/sketchnote-patterns/solid.jpg" alt="SOLID"></p>
+<h1>Singleton</h1>
+<p>La série des design patterns en sketchnote commence avec le Singleton. Largement utilisé dans les frameworks front-end, mais n'est pas toujours une bonne pratique quand il s'agit de l'implémenter dans notre code.</p>
+<p>Des débats enflammés sur Twitter à propos de bonne pratique quant à l'utilisation de ce pattern: https://twitter.com/AmelieBenoit33/status/1570313646605234177 - j'en ferai un résumé bientôt !</p>
+<p><img src="/images/sketchnote-patterns/singleton.jpg" alt="Singleton"></p>
+<h1>Builder</h1>
+<p>Ça me fait penser au constructeur de personnage qu’on retrouve dans les Sims ou certains RPGs (des semaines passées sur Baldur's Gate, mon enfance ❤️)</p>
+<p>J’utilise souvent ce pattern pour construire des jeux de données dans des tests unitaires - cependant pas toujours avec un Director.</p>
+<p><img src="/images/sketchnote-patterns/builder.jpg" alt="Builder"></p>
+<h1>Observer</h1>
+<p>Il peut s’apparenter à un système d’abonnement (magazine, journal, channel YouTube…) où le publisher appelle une méthode des abonnés lorsqu’un événement survient.</p>
+<p>Très utilisé en frontend dans divers contextes !</p>
+<p><img src="/images/sketchnote-patterns/observer.jpg" alt="Observer"></p>
+<h1>Adapter</h1>
+<p>Simple et efficace à mettre en place, il permet aux clients de consommer des api ou des données de façon uniforme.</p>
+<p><img src="/images/sketchnote-patterns/adapter.PNG" alt="Adapter"></p>
 
     ]]>
       </content>
